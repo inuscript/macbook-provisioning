@@ -1,0 +1,10 @@
+- 
+  name: brew-cask
+  homebrew: name=brew-cask
+- 
+  name: brew install cask
+  homebrew: name=Caskroom/cask/google-chrome
+# - 
+#   name: brew install
+#   homebrew: name=google-chrome
+# #    - google-japanese-ime

@@ -1,4 +1,4 @@
 - hosts: localhost
   roles:
-    - whoami
-    - oh-my-zsh
+    # - whoami
+    - homebrew
